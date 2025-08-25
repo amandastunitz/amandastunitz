@@ -1,78 +1,4 @@
-ProfileMe.dev
 
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2025 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Badges
-Add some badges and stats to your profile.
-
-
-Previous
-
-Next
-Style badges:
-
-
- 
-Title
-Edit
-
- 
-Text
-Edit
-
- 
-Icons
-Edit
-
- 
-Background
-Edit
-GitHub
-Stats Card
-Show:
-
-Stars
-Commits
-PRs
-Issues
-Contributions
-Private Commits
-Commit Streak
-Top Languages
-Top Repositories
-Find Repositories
-
-The repository must be the same as it is on your GitHub (including hyphens, NOT case-sensitive).
-
-repo-name
-
-Follower Count
-X (Twitter)
-Please add your X profile in the socials section.
-
-Follower Count
-Twitch
-Please add your Twitch profile in the socials section.
-
-Streaming Status
-
-Previous
-
-Next
-Reorder Sections
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amanda Stunitz
 =======================================================================================================================================
 
@@ -107,4 +33,4 @@ src="https://img.shields.io/github/followers/amandastunitz?logo=github&style=for
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes
+
